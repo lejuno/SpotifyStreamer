@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpotifyStreamer</string>
+    <string name="action_settings">설정</string>
+    <string name="search_hint">가수나 벤드의 이름 </string>
+</resources>
